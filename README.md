@@ -25,13 +25,13 @@ Keeping track of where someone is looking and if they are paying attention can b
 
 - **Status Panel**  
   Displays current detection status like "Eyes Closed", "Looking Away", and threat levels.  
-  ![Status Panel](images/ui_status_panel.png)
+  ![Status Panel](https://github.com/shrprem/Advanced-Eye-Tracking-and-Face-Monitoring-System/blob/main/images/Status%20pannel.png)
 
 - **Control Buttons**  
   - *INITIATE SURVEILLANCE*: Starts eye and face tracking.  
   - *TERMINATE SURVEILLANCE*: Stops the camera and tracking.  
   - *CYCLE CAMERA INPUT*: Switches between available cameras.  
-  ![Control Buttons](images/ui_controls.png)
+  ![Control Buttons](https://github.com/shrprem/Advanced-Eye-Tracking-and-Face-Monitoring-System/blob/main/images/Control%20pannel.png)
 
 📂 **Project Files**
 
