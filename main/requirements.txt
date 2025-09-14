@@ -1,0 +1,5 @@
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+Pillow==10.0.1
+numpy==1.24.3
+tk
